@@ -1,0 +1,102 @@
+LINK ASSETS MITRA GLOBAL:
+
+Warna Primary: 63ABD5
+
+	call-icon.png 
+	<a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Pixel perfect - Flaticon</a>
+
+
+	location-icon.png
+	<a href="https://www.flaticon.com/free-icons/address" title="address icons">Address icons created by Iconpro86 - Flaticon</a>
+
+
+	mail-icon.png
+	<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Fathema Khanom - Flaticon</a>
+
+
+	clock-icon-1.png
+	<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by Kiranshastry - Flaticon</a>
+
+
+	clock-icon-2.png
+	<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by Uniconlabs - Flaticon</a>
+
+
+	clock-icon-3.png
+	<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by dmitri13 - Flaticon</a>
+
+
+	clock-icon-4.png
+	<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by CreativeCons - Flaticon</a>
+
+
+	sim-icon.png
+	<a href="https://www.flaticon.com/free-icons/license" title="license icons">License icons created by Freepik - Flaticon</a>
+
+
+	sim-icon-2.png
+	<a href="https://www.flaticon.com/free-icons/driving-license" title="driving-license icons">Driving-license icons created by Freepik - Flaticon</a>
+
+
+	perpanjang-stnk-1.png
+	<a href="https://www.flaticon.com/free-icons/complete" title="complete icons">Complete icons created by xnimrodx - Flaticon</a>
+
+
+	proses-bbn-stnk.png
+	<a href="https://www.flaticon.com/free-icons/process" title="process icons">Process icons created by juicy_fish - Flaticon</a>
+
+
+	icon-arrow.png
+	<a href="https://www.flaticon.com/free-icons/arrow" title="arrow icons">Arrow icons created by deemakdaksina - Flaticon</a>
+
+
+	loc-icon-2.png
+	<a href="https://www.flaticon.com/free-icons/pin" title="pin icons">Pin icons created by Freepik - Flaticon</a>
+
+
+	mail-icon-2.png
+	<a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Freepik - Flaticon</a>
+
+
+
+	call-icon-2.png
+	<a href="https://www.flaticon.com/free-icons/phone" title="phone icons">Phone icons created by Prosymbols - Flaticon</a>
+
+
+
+	fb-icon.png
+	<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
+
+
+	
+	ig-icon.png
+	<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by edt.im - Flaticon</a>
+
+
+	fb-icon-2.png
+<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Stockio - Flaticon</a>
+
+
+	
+	whatsapp.png
+	<a href="https://www.flaticon.com/free-icons/whatsapp" title="whatsapp icons">Whatsapp icons created by Fathema Khanom - Flaticon</a>
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+
+
+
+
+	
+
+	
+
+
+	
