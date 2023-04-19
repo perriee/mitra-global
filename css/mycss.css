@@ -6,6 +6,53 @@ section {
   scroll-margin-top: 4rem;
 }
 
+.text-blue {
+  color: #63abd5;
+}
+
+.text-grey {
+  color: #898989;
+}
+
+.wrapper {
+  height: 100vh;
+}
+
+.sec-title {
+  font-size: 42px;
+}
+
+.paragraf {
+  font-size: 20px;
+  color: #5c5c5c77;
+}
+
+.fw-500 {
+  font-weight: 500;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.fw-700 {
+  font-weight: 700;
+}
+
+.icon-wa {
+  color: #29ba40;
+  transition: all 0.5s ease;
+}
+
+.wa-btn:hover {
+  background-color: #29ba40;
+}
+
+.icon-wa:hover {
+  color: white;
+  transition: all 0.4s ease-in;
+}
+
 /* NAVBAR */
 .navbar-brand {
   color: #63abd5;
@@ -26,19 +73,6 @@ section {
 
 .navbar-bg-white {
   background-color: white;
-}
-
-.lokasi-kami {
-  border: 2px solid #63abd5;
-  border-radius: 5px;
-  padding: 8px;
-  transition: all 0.3s;
-}
-
-.lokasi-kami:hover {
-  transition: all 0.5s;
-  color: #ffffff;
-  background-color: #63abd5;
 }
 
 /* HERO */
@@ -67,31 +101,6 @@ section {
   width: 70px;
 }
 
-.sec-title {
-  font-size: 42px;
-}
-
-.text-blue {
-  color: #63abd5;
-}
-
-.text-grey {
-  color: #a4a4a4;
-}
-
-.text-grey-old {
-  color: #898989;
-}
-
-.wrapper {
-  height: 100vh;
-}
-
-.paragraf {
-  font-size: 20px;
-  color: #5c5c5c77;
-}
-
 .bg-label-red {
   background-color: #ffe8e1;
 }
@@ -102,6 +111,14 @@ section {
 
 .text-real-red {
   color: red;
+}
+
+.text-orange {
+  color: #ffa800;
+}
+
+.text-green {
+  color: #368e63;
 }
 
 .bg-label-orange {
@@ -116,32 +133,8 @@ section {
   background-color: #63abd5;
 }
 
-.text-orange {
-  color: #ffa800;
-}
-
 .bg-label-green {
   background-color: #e1fff1;
-}
-
-.text-green {
-  color: #368e63;
-}
-
-.fw-500 {
-  font-weight: 500;
-}
-
-.fw-600 {
-  font-weight: 600;
-}
-
-.fw-700 {
-  font-weight: 700;
-}
-
-.text-black {
-  color: #3c4548 !important;
 }
 
 .desc-stir {
@@ -222,7 +215,6 @@ section {
   border-bottom: 3px solid #63abd5;
   margin-left: 125px;
   margin-right: 125px;
-  /* padding-top: 90px; */
 }
 
 .card-biro:hover {
@@ -233,14 +225,13 @@ section {
 
 .border-left-blue {
   border-left: 5px solid #63abd5;
-  /* border-right: 5px solid #63abd5; */
 }
 
 .biro-text {
   font-size: 17px;
 }
 
-/* lokasi KAMI */
+/* LOKASI KAMI */
 #lokasi-kami {
   background-color: #f8fbfe;
 }
@@ -255,7 +246,6 @@ section {
 }
 
 .social-icon {
-  /* width: 30px; */
   border: 2px solid white;
   padding: 3px;
 }
@@ -287,26 +277,13 @@ a {
   background-color: white;
 }
 
-.icon-wa {
-  color: #29ba40;
-  transition: all 0.5s ease;
-}
-
-.wa-btn:hover {
-  background-color: #29ba40;
-}
-
-.icon-wa:hover {
-  color: white;
-  transition: all 0.4s ease-in;
-}
-
 /* MEDIA QUERY */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   #hero {
     padding-bottom: 45px;
   }
+
   .hero-container {
     flex-direction: column-reverse;
   }
@@ -401,22 +378,3 @@ a {
     padding-left: 14px;
   }
 }
-
-/* TESTING */
-.testing-1 {
-  background-color: rgb(228, 202, 107);
-}
-
-.testing-2 {
-  background-color: rgb(137, 213, 93);
-}
-
-.testing-3 {
-  background-color: rgb(213, 93, 93);
-}
-
-.testing-4 {
-  background-color: rgb(93, 213, 191);
-}
-
-/* ASSETS CUSTOM */
